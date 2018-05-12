@@ -1,0 +1,39 @@
+_repo: El-Estudiante-de-Salamanca-and-Other-Selections_15781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Espronceda, José de
+    aliases:
+    - Espronceda, Jose de
+    - Lara, José Ignacio Xabier de Espronceda y
+    - Delgado, José de Espronceda y
+    birthdate: 1808
+    deathdate: 1842
+    gutenberg_agent_id: '6295'
+    url: http://www.gutenberg.org/2009/agents/6295
+    wikipedia: http://en.wikipedia.org/wiki/Jos%C3%A9_de_Espronceda
+  editor:
+    agent_name: Northup, George Tyler
+    birthdate: 1874
+    deathdate: 1964
+    gutenberg_agent_id: '6286'
+    url: http://www.gutenberg.org/2009/agents/6286
+description: ''
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15781'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: El Estudiante de Salamanca and Other Selections
+url: http://www.gutenberg.org/ebooks/15781
