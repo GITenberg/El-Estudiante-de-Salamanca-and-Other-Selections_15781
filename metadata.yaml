@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '6286'
     url: http://www.gutenberg.org/2009/agents/6286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15781#El-Estudiante-de-Salamanca-and-Other-Selections
 gutenberg_issued: '2005-05-07'
 gutenberg_type: Text
 identifiers:
